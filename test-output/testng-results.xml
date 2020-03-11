@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="108810" started-at="2020-01-28T17:21:55 CST" finished-at="2020-01-28T17:23:44 CST">
+    <groups>
+      <group name="regression">
+        <method signature="HW.test(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.class04.HW@4b4523f8]" name="test" class="com.class04.HW"/>
+      </group> <!-- regression -->
+    </groups>
+    <test name="Default test" duration-ms="108810" started-at="2020-01-28T17:21:55 CST" finished-at="2020-01-28T17:23:44 CST">
+      <class name="com.class04.HW">
+        <test-method status="PASS" signature="open()[pri:0, instance:com.class04.HW@4b4523f8]" name="open" is-config="true" duration-ms="10390" started-at="2020-01-28T17:21:55 CST" finished-at="2020-01-28T17:22:05 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.class04.HW@4b4523f8]" name="test" duration-ms="11294" started-at="2020-01-28T17:22:05 CST" data-provider="getData" finished-at="2020-01-28T17:22:17 CST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[James]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Smith]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[james222]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Arlington@2@20]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.class04.HW@4b4523f8]" name="close" is-config="true" duration-ms="612" started-at="2020-01-28T17:22:17 CST" finished-at="2020-01-28T17:22:17 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="open()[pri:0, instance:com.class04.HW@4b4523f8]" name="open" is-config="true" duration-ms="9991" started-at="2020-01-28T17:22:17 CST" finished-at="2020-01-28T17:22:27 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.class04.HW@4b4523f8]" name="test" duration-ms="10174" started-at="2020-01-28T17:22:27 CST" data-provider="getData" finished-at="2020-01-28T17:22:37 CST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[John]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Brown]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[john222]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Arlington@2@19]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.class04.HW@4b4523f8]" name="close" is-config="true" duration-ms="607" started-at="2020-01-28T17:22:37 CST" finished-at="2020-01-28T17:22:38 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="open()[pri:0, instance:com.class04.HW@4b4523f8]" name="open" is-config="true" duration-ms="10365" started-at="2020-01-28T17:22:38 CST" finished-at="2020-01-28T17:22:48 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.class04.HW@4b4523f8]" name="test" duration-ms="11772" started-at="2020-01-28T17:22:48 CST" data-provider="getData" finished-at="2020-01-28T17:23:00 CST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ramesh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Yadav]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ram222]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[NewYear@2@20]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.class04.HW@4b4523f8]" name="close" is-config="true" duration-ms="609" started-at="2020-01-28T17:23:00 CST" finished-at="2020-01-28T17:23:01 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="open()[pri:0, instance:com.class04.HW@4b4523f8]" name="open" is-config="true" duration-ms="10353" started-at="2020-01-28T17:23:01 CST" finished-at="2020-01-28T17:23:11 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.class04.HW@4b4523f8]" name="test" duration-ms="11397" started-at="2020-01-28T17:23:11 CST" data-provider="getData" finished-at="2020-01-28T17:23:23 CST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mukesh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sharma]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[mukesh222]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Syntax@2@20]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.class04.HW@4b4523f8]" name="close" is-config="true" duration-ms="611" started-at="2020-01-28T17:23:23 CST" finished-at="2020-01-28T17:23:23 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="open()[pri:0, instance:com.class04.HW@4b4523f8]" name="open" is-config="true" duration-ms="9992" started-at="2020-01-28T17:23:23 CST" finished-at="2020-01-28T17:23:33 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.class04.HW@4b4523f8]" name="test" duration-ms="9993" started-at="2020-01-28T17:23:33 CST" data-provider="getData" finished-at="2020-01-28T17:23:43 CST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Raj]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Maharjan]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[raj222]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Fairfax@2@20]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.class04.HW@4b4523f8]" name="close" is-config="true" duration-ms="606" started-at="2020-01-28T17:23:43 CST" finished-at="2020-01-28T17:23:44 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.class04.HW -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
